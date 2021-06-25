@@ -1,0 +1,14 @@
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\bin\Release\CalculatorApp.exe.config
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\bin\Release\CalculatorApp.exe
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\bin\Release\CalculatorApp.pdb
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\MainWindow.g.cs
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\App.g.cs
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp_MarkupCompile.cache
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp_MarkupCompile.lref
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\MainWindow.baml
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.g.resources
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.Properties.Resources.resources
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.exe
+C:\Users\Kolopup\source\repos\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.pdb
